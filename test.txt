@@ -3,3 +3,4 @@ coding is fun
 after fork, this is a small commit
 ust global online training :)
 change by akarsh
+changes made by nive
